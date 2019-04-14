@@ -1,8 +1,6 @@
 # DIY Kata
 
-This repository is aimed at helping you get to grips with the basics of testing in JavaScript. 
-
-Your challenge is to populate the functions and then to write tests for those functions.
+A series of challenges set during my part-time coding bootcamp at Manchester Codes, used as an introduction to unit testing. My challenge was to populate the functions and then to write tests for those functions.
 
 ## Instructions
 
